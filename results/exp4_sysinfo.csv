@@ -1,0 +1,2 @@
+python_version,platform,processor,cpu_count_logical,numpy_version,pandas_version,cpu_freq_mhz,ram_gb
+3.12.13,Linux-6.6.157.1-1.azl3-x86_64-with-glibc2.41,,4,1.26.4,2.2.2,3694.1630000000005,16.77
